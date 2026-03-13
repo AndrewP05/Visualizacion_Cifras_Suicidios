@@ -1,5 +1,6 @@
 # Visualización cifras de presuntos suicidios del 2015 al 2023
 
+[**➔ Ver en Google Colab**](https://colab.research.google.com/github/AndrewP05/Visualizacion_Cifras_Suicidios/blob/main/Visualizacion.ipynb)
 
 ## Descripcion datos
 El presente analisis tiene como fuente dos bases de datos tomadas de la pagina [**Datos Abiertos Colombia**](https://https://www.datos.gov.co/) que nos ayudaran a visualizar la información prevalente de los presuntos suicidios ocurridos en el territorio nacional Colombiano en el periodo de tiempo comprendido entre los años 2015 a 2023 de los cuales tiene conocimiento y son registrados por el Instituto Nacional de Medicina Legal y Ciencias Forenses.
